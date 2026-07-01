@@ -21,12 +21,6 @@ I like turning ideas into small, useful products: AI-assisted tools, practical b
 - Interested in TypeScript, Python, Java, and product-minded engineering.
 - I enjoy projects that combine usable interfaces with reliable systems underneath.
 
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,tailwind,git,github,vscode" alt="Tech stack icons" />
-</p>
-
 ## Featured Projects
 
 | Project | What it is | Stack |
