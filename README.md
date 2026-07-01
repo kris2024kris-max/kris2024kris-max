@@ -27,20 +27,7 @@ I like turning ideas into small, useful products: AI-assisted tools, practical b
 | --- | --- | --- |
 | [CodePilot](https://github.com/kris2024kris-max/CodePilot) | AI-assisted coding workflow experiments. | Python |
 | [ecom-ai-generator](https://github.com/kris2024kris-max/ecom-ai-generator) | Ecommerce content and product-generation tooling. | TypeScript |
-| [IntelligentLife](https://github.com/kris2024kris-max/IntelligentLife) | A fresh space for intelligent daily-life experiments. | Building |
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kris2024kris-max&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris2024kris-max&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=kris2024kris-max&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
+| [IntelligentLife](https://github.com/kris2024kris-max/IntelligentLife) | A fresh space for intelligent daily-life experiments. | Java |
 
 ## Focus
 
