@@ -15,10 +15,10 @@
 
 ## Hi, I am kknotsleepy
 
-I like turning ideas into small, useful products: AI-assisted tools, clean frontends, practical backends, and experiments that make everyday work feel lighter.
+I like turning ideas into small, useful products: AI-assisted tools, practical backends, and experiments that make everyday work feel lighter.
 
 - Currently building around AI coding workflows, ecommerce generation, and intelligent life tools.
-- Interested in TypeScript, Python, Java, automation, operating systems, and product-minded engineering.
+- Interested in TypeScript, Python, Java, and product-minded engineering.
 - I enjoy projects that combine usable interfaces with reliable systems underneath.
 
 ## Tech Stack
@@ -34,7 +34,6 @@ I like turning ideas into small, useful products: AI-assisted tools, clean front
 | [CodePilot](https://github.com/kris2024kris-max/CodePilot) | AI-assisted coding workflow experiments. | Python |
 | [ecom-ai-generator](https://github.com/kris2024kris-max/ecom-ai-generator) | Ecommerce content and product-generation tooling. | TypeScript |
 | [IntelligentLife](https://github.com/kris2024kris-max/IntelligentLife) | A fresh space for intelligent daily-life experiments. | Building |
-| [mos.public](https://github.com/kris2024kris-max/mos.public) | BUAA OS Lab MOS kernel learning repository. | OS / C |
 
 ## GitHub Snapshot
 
@@ -52,8 +51,7 @@ I like turning ideas into small, useful products: AI-assisted tools, clean front
 ## Focus
 
 ```text
-AI tools        Product ideas     Frontend polish
-Automation      Backend basics    OS learning
+AI tools        Product ideas     Backend basics    
 ```
 
 ## Connect
